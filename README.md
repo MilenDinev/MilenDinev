@@ -1,6 +1,7 @@
-# Working as L2 Citrix Technical Engineer.  
-🎓 Studying Infomation Systems at [Sofia University](https://www.uni-sofia.bg/) Sofia, Bulgaria.   
-🎓 Studying Software Engineering with **C#** at [Software University](https://softuni.bg/) Sofia,  Bulgaria.  
+# Working as L2 Citrix Technical Engineer.
+🎓 Bachelor in Sociology from [**Plovdiv University "Paisii Hilendarski**](https://uni-plovdiv.bg/en/), Class of 2015  
+🎓 Studied Infomation Systems at [**Sofia University, "St. Kliment Ohridski"**](https://www.uni-sofia.bg/) Sofia, Bulgaria.   
+🎓 Studying Software Engineering with **C#** at [**Software University**](https://softuni.bg/) Sofia,  Bulgaria.  
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/Milen_Dinev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dinevmilen/)](https://www.linkedin.com/in/dinevmilen/) 
