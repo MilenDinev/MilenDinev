@@ -1,5 +1,5 @@
 # Working as L2 Citrix Technical Engineer.
-🎓 Bachelor in Sociology from [**Plovdiv University "Paisii Hilendarski**](https://uni-plovdiv.bg/en/), Class of 2015  
+🎓 Bachelor in Sociology from [**Plovdiv University "Paisii Hilendarski**](https://uni-plovdiv.bg/en/), Class of 2015, Plovdiv Bulgaria.  
 🎓 Studied Information Systems at [**Sofia University, "St. Kliment Ohridski"**](https://www.uni-sofia.bg/) Sofia, Bulgaria.   
 🎓 Studying Software Engineering with **C#** at [**Software University**](https://softuni.bg/) Sofia,  Bulgaria.  
 
