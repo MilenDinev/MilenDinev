@@ -14,8 +14,10 @@
 💻 Coding          
 📚 Reading  
 🎮 Gaming  
-And many more...</br>  <img height="140"  src="https://github-readme-stats.vercel.app/api?username=MilenDinev&count_private=true&theme=tokyonight&hide=prs&show_icons=true" />
- <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenDinev&layout=compact&theme=tokyonight" />
+And many more...</br>  
+
+<img height="140" align="left" src="https://github-readme-stats.vercel.app/api?username=MilenDinev&count_private=true&theme=tokyonight&hide=prs&show_icons=true" />
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenDinev&layout=compact&theme=tokyonight" />
 
 
 
