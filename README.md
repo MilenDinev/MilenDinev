@@ -9,16 +9,14 @@
 [![LinkedIn Badge](https://img.shields.io/badge/Milen_Dinev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dinevmilen/)](https://www.linkedin.com/in/dinevmilen/) 
  [![Facebook Badge](https://img.shields.io/badge/Milen_Dinev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/mmdinev/)](https://www.facebook.com/mmdinev/) 
  
-Hobbies :  
+<br align="left">Hobbies :  
 🏂 Snowboarding    
 💻 Coding          
 📚 Reading  
 🎮 Gaming  
-And many more...  
+And many more...</br>  <img height="140"  src="https://github-readme-stats.vercel.app/api?username=MilenDinev&count_private=true&theme=tokyonight&hide=prs&show_icons=true" />
+ <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenDinev&layout=compact&theme=tokyonight" />
 
-
- <img height="130" align="left" src="https://github-readme-stats.vercel.app/api?username=MilenDinev&count_private=true&theme=tokyonight&hide=prs&show_icons=true" />
- <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenDinev&layout=compact&theme=tokyonight" />
 
 
  🎓 Certificates: | Commit Activities |
