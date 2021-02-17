@@ -18,7 +18,7 @@ And many more...</br>
 
 
 
- 🎓 Certificates: | Commit Activities |
+ 🎓 Certificates: |:chart_with_upwards_trend: Commit Activities |
 | --- | --- |
 | :soon: [**Entity Framework Core, 2021**](https://softuni.bg/trainings/3221/entity-framework-core-february-2021)| ![last commit](https://img.shields.io/github/last-commit/MilenDinev/Soft-Uni?style=for-the-badge)|
 | :heavy_check_mark: [**MS SQL, 2021**](https://softuni.bg/certificates/details/97951/cc3e4261)| ![Week Commit Activity](https://img.shields.io/github/commit-activity/w/MilenDinev/Soft-Uni?style=for-the-badge)| 
