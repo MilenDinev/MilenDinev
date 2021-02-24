@@ -13,11 +13,6 @@
 🎮 Gaming  
 And many more...</br>  
 
-<img height="140" align="left" src="https://github-readme-stats.vercel.app/api?username=MilenDinev&count_private=true&theme=onedark&hide=prs&show_icons=true" />
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenDinev&layout=compact&theme=onedark" />
-
-
-
  🎓 Certificates: |:chart_with_upwards_trend: Commit Activities |
 | --- | --- |
 | :soon: [**Entity Framework Core, 2021**](https://softuni.bg/trainings/3221/entity-framework-core-february-2021)| ![last commit](https://img.shields.io/github/last-commit/MilenDinev/Soft-Uni?style=for-the-badge)|
@@ -28,5 +23,6 @@ And many more...</br>
 |:heavy_check_mark:[**C# Basics, 2019**](https://softuni.bg/certificates/details/63299/ec291923)|
 
 
-
+<img height="140" align="left" src="https://github-readme-stats.vercel.app/api?username=MilenDinev&count_private=true&theme=onedark&hide=prs&show_icons=true" />
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenDinev&layout=compact&theme=onedark" />
 
