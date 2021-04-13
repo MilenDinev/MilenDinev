@@ -15,7 +15,7 @@ And many more...</br>
 
  🎓 Certificates: |:chart_with_upwards_trend: Commit Activities |
 | --- | --- |
-| :soon: [**Entity Framework Core, 2021**](https://softuni.bg/trainings/3221/entity-framework-core-february-2021)| ![last commit](https://img.shields.io/github/last-commit/MilenDinev/Soft-Uni?style=for-the-badge)|
+| :heavy_check_mark: [**Entity Framework Core, 2021**](https://softuni.bg/certificates/details/104397/02e0f7e9)| ![last commit](https://img.shields.io/github/last-commit/MilenDinev/Soft-Uni?style=for-the-badge)|
 | :heavy_check_mark: [**MS SQL, 2021**](https://softuni.bg/certificates/details/97951/cc3e4261)| ![Week Commit Activity](https://img.shields.io/github/commit-activity/w/MilenDinev/Soft-Uni?style=for-the-badge)| 
 | :heavy_check_mark: [**C# OOP, 2020**](https://softuni.bg/certificates/details/95853/299faa8e)| ![Month Commit Activity](https://img.shields.io/github/commit-activity/m/MilenDinev/Soft-Uni?style=for-the-badge)|
  | :heavy_check_mark: [**C# Advanced, 2019**](https://softuni.bg/certificates/details/72238/e49d52e8) | ![Year Commit Activity](https://img.shields.io/github/commit-activity/y/MilenDinev/Soft-Uni?style=for-the-badge)|  
