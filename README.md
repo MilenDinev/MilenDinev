@@ -15,10 +15,10 @@ And many more...</br>
 
  🎓 Certificates: |:chart_with_upwards_trend: Commit Activities |
 | --- | --- |
-| :soon: [**ASP.NET Core, 2021**](https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021)| ![last commit](https://img.shields.io/github/last-commit/MilenDinev/Soft-Uni?style=for-the-badge)|
-| :soon: [**C# Web Basics, 2021**](https://softuni.bg/trainings/3353/csharp-web-basics-basics-may-2021)| ![Week Commit Activity](https://img.shields.io/github/commit-activity/w/MilenDinev/Soft-Uni?style=for-the-badge)| 
-| :heavy_check_mark: [**Entity Framework Core, 2021**](https://softuni.bg/certificates/details/104397/02e0f7e9)| ![Month Commit Activity](https://img.shields.io/github/commit-activity/m/MilenDinev/Soft-Uni?style=for-the-badge)|
-| :heavy_check_mark: [**MS SQL, 2021**](https://softuni.bg/certificates/details/97951/cc3e4261)| ![Year Commit Activity](https://img.shields.io/github/commit-activity/y/MilenDinev/Soft-Uni?style=for-the-badge)|
+| :soon: [**ASP.NET Core, 2021**](https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021)| ![last commit]( https://img.shields.io/github/last-commit/MilenDinev/Soft-Uni?style=for-the-badge)|
+| :soon: [**C# Web Basics, 2021**](https://softuni.bg/trainings/3353/csharp-web-basics-basics-may-2021)| ![Week Commit Activity]( https://img.shields.io/github/commit-activity/w/MilenDinev/Soft-Uni?style=for-the-badge)| 
+| :heavy_check_mark: [**Entity Framework Core, 2021**](https://softuni.bg/certificates/details/104397/02e0f7e9)| ![Month Commit Activity]( https://img.shields.io/github/commit-activity/m/MilenDinev/Soft-Uni?style=for-the-badge)|
+| :heavy_check_mark: [**MS SQL, 2021**](https://softuni.bg/certificates/details/97951/cc3e4261)| ![Year Commit Activity]( https://img.shields.io/github/commit-activity/y/MilenDinev/Soft-Uni?style=for-the-badge)|
 | :heavy_check_mark: [**C# OOP, 2020**](https://softuni.bg/certificates/details/95853/299faa8e)|
 | :heavy_check_mark: [**C# Advanced, 2019**](https://softuni.bg/certificates/details/72238/e49d52e8)|
 | :heavy_check_mark: [**C# Fundamentals, 2019**](https://softuni.bg/certificates/details/69264/84b42035)| 
