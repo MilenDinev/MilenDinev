@@ -4,7 +4,7 @@
 🏂 Snowboarding         
 📚 Reading  
 🎮 Gaming  </br>  
-
+<br/> 
 :chart_with_upwards_trend: Commit Activities:
 
 ![last commit](https://img.shields.io/github/last-commit/MilenDinev/Web3GamingPlatform?style=for-the-badge)
