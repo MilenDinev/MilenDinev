@@ -15,6 +15,5 @@
 <br/>
 ![Year Commit Activity](https://img.shields.io/github/commit-activity/y/MilenDinev/Web3GamingPlatform?style=for-the-badge)
 
-<img height="140" align="left" src="https://github-readme-stats.vercel.app/api?username=MilenDinev&theme=onedark&show_icons=true" />
 <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenDinev&layout=compact&theme=onedark" />
 
