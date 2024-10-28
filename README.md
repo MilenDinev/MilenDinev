@@ -1,8 +1,5 @@
 [![LinkedIn Badge](https://img.shields.io/badge/Milen_Dinev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dinevmilen/)](https://www.linkedin.com/in/dinevmilen/) 
-<br align="left">Hobbies :  
-🏂 Snowboarding         
-📚 Reading  
-🎮 Gaming  </br>  
+ 
 <br/> 
 :chart_with_upwards_trend: Commit Activities:
 
